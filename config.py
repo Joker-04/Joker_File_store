@@ -30,9 +30,9 @@ def is_enabled(value, default):
 # Ask Doubt on telegram @KingVJ01
       
 # Owner Information
-API_ID = int(environ.get("API_ID", ""))
-API_HASH = environ.get("API_HASH", "")
-ADMINS = int(environ.get("ADMINS", ""))
+API_ID = int(environ.get("API_ID", "26206749"))
+API_HASH = environ.get("API_HASH", "752db80f668272cbd097e1ec90b98c79")
+ADMINS = int(environ.get("ADMINS", "5640295091"))
 
 # Database Information
 CLONE_DB_URI = environ.get("CLONE_DB_URI", "")
